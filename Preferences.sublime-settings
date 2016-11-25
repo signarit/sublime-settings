@@ -1,17 +1,23 @@
 {
+	"always_show_minimap_viewport": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Material-Theme.sublime-theme",
-	"highlight_line": true,
+	"line_padding_bottom": 3,
 	"line_padding_top": 3,
-    "line_padding_bottom": 3,
-    "translate_tabs_to_spaces": true,
-    "word_wrap": false,
-    "scroll_past_end": true,
-    "overlay_scroll_bars": "system",
-    "remember_full_screen": true,
-    "always_show_minimap_viewport": true,
+	"overlay_scroll_bars": "system",
+	"remember_full_screen": true,
+	"scroll_past_end": true,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false,
+	"font_face": "Meslo LG M DZ",
+	"font_size": 8,
+
+	// Disable last window to open
+	"hot_exit": false,
+	"remember_open_files": false
 }
