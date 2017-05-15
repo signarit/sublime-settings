@@ -4,7 +4,6 @@
 	"font_face": "Meslo LG M DZ",
 	"font_size": 11,
 	"highlight_line": true,
-	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
