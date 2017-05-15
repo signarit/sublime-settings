@@ -5,10 +5,13 @@
 	],
 	"installed_packages":
 	[
+<<<<<<< HEAD
 		"Alignment",
 		"AlignTab",
 		"Emmet",
 		"Laravel Blade Highlighter",
+=======
+>>>>>>> b6c6137341678f65006e907bd83ef71034d38a99
 		"Material Theme",
 		"Package Control"
 	]
